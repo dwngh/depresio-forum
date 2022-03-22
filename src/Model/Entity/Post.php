@@ -36,4 +36,5 @@ class Post extends Entity
         'user' => true,
         'thread' => true,
     ];
+
 }
